@@ -53,3 +53,6 @@ Stack trace:
 [30-Nov-2019 23:38:13 UTC] PHP   3. require_once() C:\Users\supac\Local Sites\fictional-university\app\public\wp-blog-header.php:19
 [30-Nov-2019 23:38:13 UTC] PHP   4. include() C:\Users\supac\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:98
 [30-Nov-2019 23:39:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 24
+[01-Dec-2019 17:47:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 17
+[01-Dec-2019 17:48:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 17
+[01-Dec-2019 17:48:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 17
