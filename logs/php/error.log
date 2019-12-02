@@ -56,3 +56,15 @@ Stack trace:
 [01-Dec-2019 17:47:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 17
 [01-Dec-2019 17:48:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 17
 [01-Dec-2019 17:48:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 17
+[02-Dec-2019 15:06:59 UTC] PHP Warning:  Use of undefined constant get_the_content - assumed 'get_the_content' (this will throw an Error in a future version of PHP) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 64
+[02-Dec-2019 15:06:59 UTC] PHP Stack trace:
+[02-Dec-2019 15:06:59 UTC] PHP   1. {main}() C:\Users\supac\Local Sites\fictional-university\app\public\index.php:0
+[02-Dec-2019 15:06:59 UTC] PHP   2. require() C:\Users\supac\Local Sites\fictional-university\app\public\index.php:17
+[02-Dec-2019 15:06:59 UTC] PHP   3. require_once() C:\Users\supac\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[02-Dec-2019 15:06:59 UTC] PHP   4. include() C:\Users\supac\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:98
+[02-Dec-2019 15:06:59 UTC] PHP Warning:  Use of undefined constant get_the_content - assumed 'get_the_content' (this will throw an Error in a future version of PHP) in C:\Users\supac\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 64
+[02-Dec-2019 15:06:59 UTC] PHP Stack trace:
+[02-Dec-2019 15:06:59 UTC] PHP   1. {main}() C:\Users\supac\Local Sites\fictional-university\app\public\index.php:0
+[02-Dec-2019 15:06:59 UTC] PHP   2. require() C:\Users\supac\Local Sites\fictional-university\app\public\index.php:17
+[02-Dec-2019 15:06:59 UTC] PHP   3. require_once() C:\Users\supac\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[02-Dec-2019 15:06:59 UTC] PHP   4. include() C:\Users\supac\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:98
